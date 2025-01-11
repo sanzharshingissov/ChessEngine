@@ -139,3 +139,29 @@ Acknowledgments:
 Pygame Documentation for GUI development guidance.
 
 Inspiration from various online resources.
+
+Sanzhar Shingissov. Mtrc number: 66683228
+
+In this project, I implemented several key features, including castling, en passant, and pawn promotion mechanics.
+I also developed the move animation system and added functionality for highlighting valid moves on the chessboard. 
+The most challenging aspect for me was implementing the AI using the NegaMax algorithm with Alpha-Beta pruning, as it required a deep understanding of game trees and optimization techniques. 
+Through this work, I learned about the intricacies of chess rules, algorithmic thinking, and efficient coding practices.
+This experience significantly improved my problem-solving skills and broadened my knowledge of artificial intelligence in games.
+
+Roxana Ramazanova. Mtrc number: 72750731
+
+For me, the hardest part of this chess project was that I am not good at playing chess and didn’t know the special rules of the game. 
+Writing something big in Python was also new for me, as I have only worked on large projects in Java before. Additionally, using a Python game library was a new experience, which made the project even more challenging.
+I worked on several parts of the chess engine. 
+I implemented the moves for each piece, including their valid moves, and the logic for undoing moves. 
+I also worked on the functions for generating all possible moves, checking for pins and checks, and the initiation of figures on the chessboard. 
+However, I did not write the parts for en passant, pawn promotion, or castling.
+
+Nijat Azizli. Mtrc number: 70825239
+
+In this chess project, I worked on most of the frontend, like designing the board and writing the main() function, and also started the backend by creating the 2D array for the chessboard. 
+The hardest part for me was that I have more experience in backend, so working on the frontend was new and challenging. 
+I had to learn how to balance both parts to make everything work well.
+Another big challenge was working as a team while being at least 30 kilometers apart. 
+It was harder to communicate and coordinate our tasks remotely. 
+Even with these challenges, I gained useful experience in frontend coding and teamwork.
